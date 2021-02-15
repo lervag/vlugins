@@ -199,6 +199,9 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 
 - [ale](https://github.com/dense-analysis/ale)
 - [coc](https://github.com/neoclide/coc.nvim)
+- [diagnostic-languageserver](https://github.com/iamcco/diagnostic-languageserver)
+- [efm-langserver](https://github.com/mattn/efm-langserver)
+- [lint](https://github.com/mfussenegger/nvim-lint)
 - [lsc](https://github.com/natebosch/vim-lsc)
 - [lsp](https://github.com/prabirshrestha/vim-lsp)
 - [lspconfig](https://github.com/neovim/nvim-lspconfig)
