@@ -183,6 +183,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [interestingwords](https://github.com/lfv89/vim-interestingwords)
 - [overlength](https://github.com/tjdevries/overlength.vim)
 - [pinnacle](https://github.com/wincent/pinnacle)
+- [rainbow](https://github.com/luochen1990/rainbow)
 - [signature](https://github.com/kshenoy/vim-signature)
 - [traces](https://github.com/markonm/traces.vim)
 
