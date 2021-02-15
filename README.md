@@ -312,6 +312,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 
 - [airline](https://github.com/vim-airline/vim-airline)
 - [barow](https://github.com/doums/barow)
+- [bubbly](https://github.com/datwaft/bubbly.nvim)
 - [crystalline](https://github.com/rbong/vim-crystalline)
 - [express\_line](https://github.com/tjdevries/express_line.nvim)
 - [galaxyline](https://github.com/glepnir/galaxyline.nvim)
