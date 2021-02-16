@@ -236,6 +236,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 
 ## Notes
 
+- [markdown-wiki](https://github.com/h2ero/vim-markdown-wiki)
 - [neuron.nvim](https://github.com/oberblastmeister/neuron.nvim)
 - [neuron.vim](https://github.com/fiatjaf/neuron.vim)
 - [vimwiki](https://github.com/vimwiki/vimwiki)
