@@ -60,6 +60,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [goyo](https://github.com/junegunn/goyo.vim)
 - [lens](https://github.com/camspiers/lens.vim)
 - [maximizer](https://github.com/szw/vim-maximizer)
+- [wheel](https://github.com/chimay/wheel)
 
 ## Commenter
 
