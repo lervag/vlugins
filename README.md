@@ -142,6 +142,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [formatter](https://github.com/mhartington/formatter.nvim)
 - [importmagic](https://github.com/anihm136/importmagic.nvim)
 - [neoformat](https://github.com/sbdchd/neoformat)
+- [rt-format](https://github.com/skywind3000/vim-rt-format)
 
 ## Fuzzy-Finder
 
