@@ -204,6 +204,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [coc](https://github.com/neoclide/coc.nvim)
 - [diagnostic-languageserver](https://github.com/iamcco/diagnostic-languageserver)
 - [efm-langserver](https://github.com/mattn/efm-langserver)
+- [lamp](https://github.com/hrsh7th/vim-lamp)
 - [lint](https://github.com/mfussenegger/nvim-lint)
 - [lsc](https://github.com/natebosch/vim-lsc)
 - [lsp](https://github.com/prabirshrestha/vim-lsp)
