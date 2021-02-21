@@ -332,6 +332,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [airline](https://github.com/vim-airline/vim-airline)
 - [barbar](https://github.com/romgrk/barbar.nvim)
 - [bufferline](https://github.com/akinsho/nvim-bufferline.lua)
+- [buffet](https://github.com/bagrat/vim-buffet)
 - [tabulous](https://github.com/webdevel/tabulous)
 - [vem-tabline](https://github.com/pacha/vem-tabline)
 
