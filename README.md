@@ -114,6 +114,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 
 ## File-Explorer
 
+- [bolt](https://github.com/ripxorip/bolt.nvim)
 - [chadtree](https://github.com/ms-jpq/chadtree)
 - [coc-explorer](https://github.com/weirongxu/coc-explorer)
 - [defx](https://github.com/Shougo/defx.nvim)
