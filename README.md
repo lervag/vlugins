@@ -122,6 +122,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [fern](https://github.com/lambdalisue/fern.vim)
 - [molder](https://github.com/mattn/vim-molder)
 - [nerdtree](https://github.com/preservim/nerdtree)
+- [rnvimr](https://github.com/kevinhwang91/rnvimr)
 - [tree](https://github.com/kyazdani42/nvim-tree.lua)
 - [vinegar](https://github.com/tpope/vim-vinegar)
 - [yanil](https://github.com/Xuyuanp/yanil)
