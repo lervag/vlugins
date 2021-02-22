@@ -132,6 +132,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [easydir](https://github.com/duggiefresh/vim-easydir)
 - [eunuch](https://github.com/tpope/vim-eunuch)
 - [projectionist](https://github.com/tpope/vim-projectionist)
+- [rooter](https://github.com/airblade/vim-rooter)
 
 ## Folding
 
