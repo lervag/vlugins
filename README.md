@@ -321,6 +321,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [crystalline](https://github.com/rbong/vim-crystalline)
 - [express\_line](https://github.com/tjdevries/express_line.nvim)
 - [galaxyline](https://github.com/glepnir/galaxyline.nvim)
+- [hardline](https://github.com/ojroques/nvim-hardline)
 - [lightline](https://github.com/itchyny/lightline.vim)
 - [neoline](https://github.com/adelarsq/neoline.vim)
 - [onestatus](https://github.com/narajaon/onestatus)
