@@ -367,5 +367,6 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [qf](https://github.com/romainl/vim-qf)
 - [stratify](https://github.com/mhinz/vim-startify)
 - [treesitter-context](https://github.com/romgrk/nvim-treesitter-context)
+- [undotree](https://github.com/mbbill/undotree)
 - [urlview](https://github.com/strboul/urlview.vim)
 - [which-key](https://github.com/liuchengxu/vim-which-key)
