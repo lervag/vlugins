@@ -271,6 +271,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [runbuf](https://github.com/arp242/runbuf.vim)
 - [slime](https://github.com/jpalardy/vim-slime)
 - [sniprun](https://github.com/michaelb/sniprun)
+- [terminator](https://github.com/erietz/vim-terminator)
 - [test](https://github.com/vim-test/vim-test)
 - [vimcmdline](https://github.com/jalvesaq/vimcmdline)
 - [vimux](https://github.com/preservim/vimux)
