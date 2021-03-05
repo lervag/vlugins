@@ -273,6 +273,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [sniprun](https://github.com/michaelb/sniprun)
 - [terminator](https://github.com/erietz/vim-terminator)
 - [test](https://github.com/vim-test/vim-test)
+- [ultest](https://github.com/rcarriga/vim-ultest)
 - [vimcmdline](https://github.com/jalvesaq/vimcmdline)
 - [vimux](https://github.com/preservim/vimux)
 - [vsh](https://github.com/hardenedapple/vsh)
