@@ -252,9 +252,11 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [auto-pairs](https://github.com/jiangmiao/auto-pairs)
 - [autopairs](https://github.com/windwp/nvim-autopairs)
 - [closer](https://github.com/rstacruz/vim-closer)
+- [closetag](https://github.com/alvan/vim-closetag)
 - [delimitMate](https://github.com/Raimondi/delimitMate)
 - [endwise](https://github.com/tpope/vim-endwise)
 - [lexima](https://github.com/cohama/lexima.vim)
+- [ts-closetag](https://github.com/windwp/nvim-ts-closetag)
 
 ## Plugin-Manager
 
