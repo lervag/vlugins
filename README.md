@@ -278,6 +278,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [ultest](https://github.com/rcarriga/vim-ultest)
 - [vimcmdline](https://github.com/jalvesaq/vimcmdline)
 - [vimux](https://github.com/preservim/vimux)
+- [visualrun](https://github.com/thezeroalpha/vim-visualrun)
 - [vsh](https://github.com/hardenedapple/vsh)
 
 ## Scrolling
