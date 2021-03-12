@@ -97,6 +97,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 
 ## Editing
 
+- [alternate-toggler](https://github.com/rmagatti/alternate-toggler)
 - [argumentative](https://github.com/PeterRincker/vim-argumentative)
 - [bullets](https://github.com/dkarter/bullets.vim)
 - [CommentFrame](https://github.com/cometsong/CommentFrame.vim)
