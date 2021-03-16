@@ -54,6 +54,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [bufexplorer](https://github.com/jlanzarotta/bufexplorer)
 - [buffer-tree-explorer](https://github.com/el-iot/buffer-tree-explorer)
 - [buffer-tree](https://github.com/el-iot/buffer-tree)
+- [bufkill](https://github.com/qpkorr/vim-bufkill)
 - [BufOnly](https://github.com/numToStr/BufOnly.nvim)
 - [bunlink](https://github.com/orlp/vim-bunlink/)
 - [choosewin](https://github.com/t9md/vim-choosewin)
