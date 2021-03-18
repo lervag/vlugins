@@ -168,6 +168,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [flog](https://github.com/rbong/vim-flog)
 - [fugitive](https://github.com/tpope/vim-fugitive)
 - [fzf-checkout](https://github.com/stsewd/fzf-checkout.vim)
+- [gina](https://github.com/lambdalisue/gina.vim)
 - [git-blame](https://github.com/f-person/git-blame.nvim)
 - [git-messenger](https://github.com/rhysd/git-messenger.vim)
 - [gitgutter](https://github.com/airblade/vim-gitgutter)
