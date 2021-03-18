@@ -221,6 +221,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [fzf-lsp](https://github.com/gfanto/fzf-lsp.nvim)
 - [lightbulb](https://github.com/kosayoda/nvim-lightbulb)
 - [lsp-status](https://github.com/nvim-lua/lsp-status.nvim)
+- [lsp\_signature](https://github.com/ray-x/lsp_signature.nvim)
 - [lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy)
 - [lspkind](https://github.com/onsails/lspkind-nvim)
 - [lspsaga](https://github.com/glepnir/lspsaga.nvim)
