@@ -49,6 +49,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 
 ## Buffers & Windows
 
+- [accordion](https://github.com/mattboehm/vim-accordion)
 - [bbye](https://github.com/moll/vim-bbye)
 - [bswap](https://github.com/natdm/bswap)
 - [bufexplorer](https://github.com/jlanzarotta/bufexplorer)
