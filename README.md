@@ -298,6 +298,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 ## Search & Replace
 
 - [ctrlsf](https://github.com/dyng/ctrlsf.vim)
+- [far](https://github.com/brooth/far.vim)
 - [ferret](https://github.com/wincent/ferret)
 - [grepper](https://github.com/mhinz/vim-grepper)
 - [searchReplace](https://github.com/romgrk/searchReplace.vim)
