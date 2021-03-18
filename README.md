@@ -341,6 +341,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [onestatus](https://github.com/narajaon/onestatus)
 - [scrollstatus](https://github.com/ojroques/vim-scrollstatus)
 - [skyline](https://github.com/ourigen/skyline.vim)
+- [spaceline](https://github.com/glepnir/spaceline.vim)
 - [tpipeline](https://github.com/vimpostor/vim-tpipeline)
 
 ## Tab-/Buffer-line
