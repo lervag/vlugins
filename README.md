@@ -238,6 +238,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [easymotion](https://github.com/easymotion/vim-easymotion)
 - [express](https://github.com/tommcdo/vim-express)
 - [gx-extended](https://github.com/stsewd/gx-extended.vim)
+- [hop](https://github.com/phaazon/hop.nvim)
 - [ipmotion](https://github.com/justinmk/vim-ipmotion)
 - [matchup](https://github.com/andymass/vim-matchup)
 - [pythonsense](https://github.com/jeetsukumaran/vim-pythonsense)
