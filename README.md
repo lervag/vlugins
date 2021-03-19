@@ -105,6 +105,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [argumentative](https://github.com/PeterRincker/vim-argumentative)
 - [bullets](https://github.com/dkarter/bullets.vim)
 - [CommentFrame](https://github.com/cometsong/CommentFrame.vim)
+- [dial](https://github.com/monaqa/dial.nvim)
 - [doge](https://github.com/kkoomen/vim-doge)
 - [move](https://github.com/matze/vim-move)
 - [MvVis](https://github.com/Jorengarenar/vim-MvVis)
