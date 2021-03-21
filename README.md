@@ -178,6 +178,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [gitgutter](https://github.com/airblade/vim-gitgutter)
 - [gv](https://github.com/junegunn/gv.vim)
 - [linediff](https://github.com/AndrewRadev/linediff.vim)
+- [neogit](https://github.com/TimUntersberger/neogit)
 - [octo](https://github.com/pwntester/octo.nvim)
 - [repo-edit](https://github.com/drzel/vim-repo-edit)
 - [signify](https://github.com/mhinz/vim-signify)
