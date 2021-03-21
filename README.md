@@ -174,6 +174,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [gina](https://github.com/lambdalisue/gina.vim)
 - [git-blame](https://github.com/f-person/git-blame.nvim)
 - [git-messenger](https://github.com/rhysd/git-messenger.vim)
+- [gitabra](https://github.com/Odie/gitabra)
 - [gitgutter](https://github.com/airblade/vim-gitgutter)
 - [gv](https://github.com/junegunn/gv.vim)
 - [linediff](https://github.com/AndrewRadev/linediff.vim)
