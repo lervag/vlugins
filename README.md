@@ -177,6 +177,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [git-messenger](https://github.com/rhysd/git-messenger.vim)
 - [gitabra](https://github.com/Odie/gitabra)
 - [gitgutter](https://github.com/airblade/vim-gitgutter)
+- [gitsigns](https://github.com/lewis6991/gitsigns.nvim)
 - [gv](https://github.com/junegunn/gv.vim)
 - [linediff](https://github.com/AndrewRadev/linediff.vim)
 - [neogit](https://github.com/TimUntersberger/neogit)
