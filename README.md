@@ -248,6 +248,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [ipmotion](https://github.com/justinmk/vim-ipmotion)
 - [matchup](https://github.com/andymass/vim-matchup)
 - [pythonsense](https://github.com/jeetsukumaran/vim-pythonsense)
+- [quick-scope](https://github.com/unblevable/quick-scope)
 - [sneak](https://github.com/justinmk/vim-sneak)
 - [targets](https://github.com/wellle/targets.vim)
 - [textobj-user](https://github.com/kana/vim-textobj-user)
