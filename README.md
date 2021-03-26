@@ -391,6 +391,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [float-preview](https://github.com/ncm2/float-preview.nvim)
 - [mundo](https://github.com/simnalamburt/vim-mundo)
 - [peekaboo](https://github.com/junegunn/vim-peekaboo)
+- [peekup](https://github.com/gennaro-tedesco/nvim-peekup)
 - [presence](https://github.com/andweeb/presence.nvim)
 - [qf](https://github.com/romainl/vim-qf)
 - [stratify](https://github.com/mhinz/vim-startify)
