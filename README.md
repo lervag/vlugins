@@ -299,6 +299,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 ## Scrolling
 
 - [comfortable-motion](https://github.com/yuttie/comfortable-motion.vim)
+- [neoscroll](https://github.com/karb94/neoscroll.nvim)
 - [scrollbar](https://github.com/Xuyuanp/scrollbar.nvim)
 - [scrollstatus](https://github.com/ojroques/vim-scrollstatus)
 - [scrollview](https://github.com/dstein64/nvim-scrollview)
