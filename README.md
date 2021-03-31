@@ -322,6 +322,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 
 ## Snippets
 
+- [LuaSnip](https://github.com/L3MON4D3/LuaSnip)
 - [miniSnip](https://github.com/Jorengarenar/miniSnip)
 - [snippets](https://github.com/norcalli/snippets.nvim)
 - [ultisnips](https://github.com/SirVer/ultisnips)
