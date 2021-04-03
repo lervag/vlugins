@@ -21,6 +21,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [Git](#git)
 - [Highlighting](#highlighting)
 - [Indent](#indent)
+- [Jupyter/Ipython](#jupyteripython)
 - [LSP](#lsp)
 - [LSP-Extensions](#lsp-extensions)
 - [Motions & Objects](#motions--objects)
@@ -213,6 +214,12 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [yadi](https://github.com/timakro/vim-yadi)
 - [yaifa](https://github.com/Raimondi/yaifa)
 
+## Jupyter/Ipython
+
+- [cellmode](https://github.com/julienr/vim-cellmode)
+- [ipython-cell](https://github.com/hanschen/vim-ipython-cell)
+- [jukit](https://github.com/luk400/vim-jukit)
+
 ## LSP
 
 - [ale](https://github.com/dense-analysis/ale)
@@ -282,9 +289,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 
 ## REPL
 
-- [cellmode](https://github.com/julienr/vim-cellmode)
 - [estream](https://github.com/JoshMcguigan/estream)
-- [ipython-cell](https://github.com/hanschen/vim-ipython-cell)
 - [run](https://github.com/ledesmablt/vim-run)
 - [runbuf](https://github.com/arp242/runbuf.vim)
 - [slime](https://github.com/jpalardy/vim-slime)
