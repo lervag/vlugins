@@ -318,6 +318,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [ferret](https://github.com/wincent/ferret)
 - [grepper](https://github.com/mhinz/vim-grepper)
 - [searchReplace](https://github.com/romgrk/searchReplace.vim)
+- [spectre](https://github.com/windwp/nvim-spectre)
 - [visual-multi](https://github.com/mg979/vim-visual-multi)
 
 ## Session-Management
