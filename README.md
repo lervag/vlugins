@@ -265,6 +265,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 ## Pair-Closer
 
 - [auto-pairs](https://github.com/jiangmiao/auto-pairs)
+- [autopair](https://github.com/eluum/vim-autopair)
 - [autopairs](https://github.com/windwp/nvim-autopairs)
 - [closer](https://github.com/rstacruz/vim-closer)
 - [closetag](https://github.com/alvan/vim-closetag)
