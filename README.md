@@ -38,6 +38,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [Statusline](#statusline)
 - [Tab-/Buffer-line](#tab-buffer-line)
 - [Tagbar](#tagbar)
+- [Tmux](#tmux)
 - [Terminal](#terminal)
 - [UI](#ui)
 
@@ -394,6 +395,13 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [stt](https://github.com/toniz4/vim-stt)
 - [termbufm](https://github.com/mizlan/termbufm)
 - [toggleterm](https://github.com/akinsho/nvim-toggleterm.lua)
+
+## Tmux
+
+- [navigator](https://github.com/numToStr/Navigator.nvim)
+- [tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
+- [tmux-runner](https://github.com/christoomey/vim-tmux-runner)
+- [vimux](https://github.com/preservim/vimux)
 
 ## UI
 
