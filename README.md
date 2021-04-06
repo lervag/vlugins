@@ -119,6 +119,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [SQL-UPPER](https://github.com/Jorengarenar/vim-SQL-UPPER)
 - [stabs](https://github.com/Thyrum/vim-stabs)
 - [switch](https://github.com/AndrewRadev/switch.vim)
+- [synonyms](https://github.com/Sanhajio/synonyms.vim)
 - [table-mode](https://github.com/dhruvasagar/vim-table-mode)
 - [visual-increment](https://github.com/triglav/vim-visual-increment)
 
