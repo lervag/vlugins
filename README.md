@@ -256,6 +256,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [hop](https://github.com/phaazon/hop.nvim)
 - [ipmotion](https://github.com/justinmk/vim-ipmotion)
 - [matchup](https://github.com/andymass/vim-matchup)
+- [numb](https://github.com/nacro90/numb.nvim)
 - [pythonsense](https://github.com/jeetsukumaran/vim-pythonsense)
 - [quick-scope](https://github.com/unblevable/quick-scope)
 - [sneak](https://github.com/justinmk/vim-sneak)
