@@ -264,6 +264,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [targets](https://github.com/wellle/targets.vim)
 - [textobj-user](https://github.com/kana/vim-textobj-user)
 - [treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)
+- [vimprovisor](https://github.com/egzvor/vimproviser)
 - [wordmotion](https://github.com/chaoren/vim-wordmotion)
 
 ## Notes
