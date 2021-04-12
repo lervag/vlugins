@@ -269,6 +269,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 
 ## Notes
 
+- [kb-notes](https://github.com/dobrovolsky/kb-notes.nvim)
 - [markdown-wiki](https://github.com/h2ero/vim-markdown-wiki)
 - [neuron.nvim](https://github.com/oberblastmeister/neuron.nvim)
 - [neuron.vim](https://github.com/fiatjaf/neuron.vim)
