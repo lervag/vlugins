@@ -351,6 +351,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 
 ## Spellchecker
 
+- [codespell](https://github.com/shinglyu/vim-codespell)
 - [grammarous](https://github.com/rhysd/vim-grammarous)
 - [LanguageTool](https://github.com/dpelle/vim-LanguageTool)
 - [SpellCheck](https://github.com/inkarkat/vim-SpellCheck)
