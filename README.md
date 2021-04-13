@@ -99,6 +99,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 
 - [gdb](https://github.com/sakhnik/nvim-gdb)
 - [nvim-dap](https://github.com/mfussenegger/nvim-dap)
+- [vdebug](https://github.com/vim-vdebug/vdebug)
 - [vim-dap](https://github.com/dradtke/vim-dap)
 - [vimspector](https://github.com/puremourning/vimspector)
 
