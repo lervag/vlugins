@@ -363,6 +363,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [bubbly](https://github.com/datwaft/bubbly.nvim)
 - [crystalline](https://github.com/rbong/vim-crystalline)
 - [express\_line](https://github.com/tjdevries/express_line.nvim)
+- [feline](https://github.com/Famiu/feline.nvim)
 - [galaxyline](https://github.com/glepnir/galaxyline.nvim)
 - [hardline](https://github.com/ojroques/nvim-hardline)
 - [lightline](https://github.com/itchyny/lightline.vim)
