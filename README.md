@@ -164,6 +164,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [clap](https://github.com/liuchengxu/vim-clap)
 - [ctrlp](https://github.com/kien/ctrlp.vim)
 - [fzf](https://github.com/junegunn/fzf.vim)
+- [oneterm](https://github.com/LoricAndre/oneterm)
 - [quickpick](https://github.com/prabirshrestha/quickpick.vim)
 - [skim](https://github.com/lotabout/skim.vim)
 - [telescope](https://github.com/nvim-telescope/telescope.nvim)
