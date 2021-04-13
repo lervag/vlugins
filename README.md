@@ -354,6 +354,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [grammarous](https://github.com/rhysd/vim-grammarous)
 - [LanguageTool](https://github.com/dpelle/vim-LanguageTool)
 - [SpellCheck](https://github.com/inkarkat/vim-SpellCheck)
+- [spelunker](https://github.com/kamykn/spelunker.vim)
 - [translator](https://github.com/voldikss/vim-translator)
 - [wordy](https://github.com/reedes/vim-wordy)
 
