@@ -24,6 +24,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [Jupyter/Ipython](#jupyteripython)
 - [LSP](#lsp)
 - [LSP-Extensions](#lsp-extensions)
+- [Miscellaneous](#miscellaneous)
 - [Motions & Objects](#motions--objects)
 - [Notes](#notes)
 - [Pair-Closer](#pair-closer)
@@ -247,6 +248,11 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [lspsaga](https://github.com/glepnir/lspsaga.nvim)
 - [lsputils](https://github.com/RishabhRD/nvim-lsputils)
 - [nlsp-settings](https://github.com/tamago324/nlsp-settings.nvim)
+
+## Miscellaneous
+
+- [hydra](https://github.com/brenopacheco/vim-hydra)
+- [libmodal](https://github.com/Iron-E/nvim-libmodal)
 
 ## Motions & Objects
 
