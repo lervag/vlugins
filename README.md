@@ -413,6 +413,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [neoterm](https://github.com/kassio/neoterm)
 - [stt](https://github.com/toniz4/vim-stt)
 - [termbufm](https://github.com/mizlan/termbufm)
+- [toggle-terminal](https://github.com/caenrique/nvim-toggle-terminal)
 - [toggleterm](https://github.com/akinsho/nvim-toggleterm.lua)
 
 ## Tmux
