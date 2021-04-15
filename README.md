@@ -183,6 +183,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [gina](https://github.com/lambdalisue/gina.vim)
 - [git-blame](https://github.com/f-person/git-blame.nvim)
 - [git-messenger](https://github.com/rhysd/git-messenger.vim)
+- [git-worktree](https://github.com/ThePrimeagen/git-worktree.nvim)
 - [gitabra](https://github.com/Odie/gitabra)
 - [gitgutter](https://github.com/airblade/vim-gitgutter)
 - [gitlinker](https://github.com/ruifm/gitlinker.nvim)
