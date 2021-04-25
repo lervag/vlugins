@@ -198,6 +198,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [repo-edit](https://github.com/drzel/vim-repo-edit)
 - [signify](https://github.com/mhinz/vim-signify)
 - [twiggy](https://github.com/sodapopcan/vim-twiggy)
+- [vgit](https://github.com/tanvirtin/vgit.nvim)
 - [vimagit](https://github.com/jreybert/vimagit)
 
 ## Highlighting
