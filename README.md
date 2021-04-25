@@ -404,6 +404,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 
 ## Tagbar
 
+- [symbols-outline](https://github.com/simrat39/symbols-outline.nvim)
 - [tagbar](https://github.com/preservim/tagbar)
 - [vista](https://github.com/liuchengxu/vista.vim)
 
