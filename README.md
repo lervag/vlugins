@@ -62,6 +62,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [BufOnly](https://github.com/numToStr/BufOnly.nvim)
 - [bunlink](https://github.com/orlp/vim-bunlink/)
 - [choosewin](https://github.com/t9md/vim-choosewin)
+- [floating](https://github.com/fhill2/floating.nvim)
 - [focus](https://github.com/beauwilliams/focus.nvim)
 - [goyo](https://github.com/junegunn/goyo.vim)
 - [harpoon](https://github.com/ThePrimeagen/harpoon)
