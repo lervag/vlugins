@@ -117,6 +117,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [MvVis](https://github.com/Jorengarenar/vim-MvVis)
 - [nrpattern](https://github.com/zegervdv/nrpattern.nvim)
 - [pasta](https://github.com/sickill/vim-pasta)
+- [peculiar](https://github.com/JRasmusBm/vim-peculiar)
 - [revJ](https://github.com/AckslD/nvim-revJ.lua)
 - [sideways](https://github.com/AndrewRadev/sideways.vim)
 - [splitjoin](https://github.com/AndrewRadev/splitjoin.vim)
