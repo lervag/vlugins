@@ -137,6 +137,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [dirvish](https://github.com/justinmk/vim-dirvish)
 - [easytree](https://github.com/troydm/easytree.vim)
 - [fern](https://github.com/lambdalisue/fern.vim)
+- [lir](https://github.com/tamago324/lir.nvim)
 - [molder](https://github.com/mattn/vim-molder)
 - [nerdtree](https://github.com/preservim/nerdtree)
 - [rnvimr](https://github.com/kevinhwang91/rnvimr)
