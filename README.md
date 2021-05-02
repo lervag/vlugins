@@ -180,6 +180,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 
 - [blamer](https://github.com/APZelos/blamer.nvim)
 - [conflicted](https://github.com/christoomey/vim-conflicted)
+- [diffview](https://github.com/sindrets/diffview.nvim)
 - [dirdiff](https://github.com/will133/vim-dirdiff)
 - [flog](https://github.com/rbong/vim-flog)
 - [fugitive](https://github.com/tpope/vim-fugitive)
