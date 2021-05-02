@@ -445,4 +445,5 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [treesitter-context](https://github.com/romgrk/nvim-treesitter-context)
 - [undotree](https://github.com/mbbill/undotree)
 - [urlview](https://github.com/strboul/urlview.vim)
-- [which-key](https://github.com/liuchengxu/vim-which-key)
+- [vim-which-key](https://github.com/liuchengxu/vim-which-key)
+- [which-key.nvim](https://github.com/folke/which-key.nvim)
