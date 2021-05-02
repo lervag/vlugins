@@ -435,6 +435,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 ## UI
 
 - [bqf](https://github.com/kevinhwang91/nvim-bqf)
+- [centerpad](https://github.com/smithbm2316/centerpad.nvim)
 - [context](https://github.com/wellle/context.vim)
 - [float-preview](https://github.com/ncm2/float-preview.nvim)
 - [mundo](https://github.com/simnalamburt/vim-mundo)
