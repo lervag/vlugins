@@ -258,6 +258,7 @@ My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plu
 - [lspsaga](https://github.com/glepnir/lspsaga.nvim)
 - [lsputils](https://github.com/RishabhRD/nvim-lsputils)
 - [nlsp-settings](https://github.com/tamago324/nlsp-settings.nvim)
+- [trouble](https://github.com/folke/lsp-trouble.nvim)
 
 ## Miscellaneous
 
