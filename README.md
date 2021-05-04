@@ -1,6 +1,6 @@
 # vlugins
 
-My [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plugins bookmarks.
+A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plugins.
 
 ## TOC
 
