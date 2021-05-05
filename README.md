@@ -212,8 +212,6 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 - [eft](https://github.com/hrsh7th/vim-eft)
 - [hlslens](https://github.com/kevinhwang91/nvim-hlslens)
 - [illuminate](https://github.com/RRethy/vim-illuminate)
-- [indent-blankline](https://github.com/lukas-reineke/indent-blankline.nvim)
-- [indentLine](https://github.com/Yggdroot/indentLine)
 - [interestingwords](https://github.com/lfv89/vim-interestingwords)
 - [overlength](https://github.com/tjdevries/overlength.vim)
 - [pinnacle](https://github.com/wincent/pinnacle)
@@ -224,7 +222,9 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 ## Indent
 
 - [detectindent](https://github.com/ciaranm/detectindent)
+- [indent-blankline](https://github.com/lukas-reineke/indent-blankline.nvim)
 - [indentfinder](https://github.com/ldx/vim-indentfinder)
+- [indentLine](https://github.com/Yggdroot/indentLine)
 - [matchindent](https://github.com/conormcd/matchindent.vim)
 - [sleuth](https://github.com/tpope/vim-sleuth)
 - [yadi](https://github.com/timakro/vim-yadi)
