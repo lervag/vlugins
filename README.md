@@ -268,6 +268,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 
 - [hydra](https://github.com/brenopacheco/vim-hydra)
 - [libmodal](https://github.com/Iron-E/nvim-libmodal)
+- [vital](https://github.com/vim-jp/vital.vim)
 
 ## Motions & Objects
 
