@@ -196,6 +196,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 - [gitsigns](https://github.com/lewis6991/gitsigns.nvim)
 - [gv](https://github.com/junegunn/gv.vim)
 - [linediff](https://github.com/AndrewRadev/linediff.vim)
+- [mergetool](https://github.com/samoshkin/vim-mergetool)
 - [neogit](https://github.com/TimUntersberger/neogit)
 - [octo](https://github.com/pwntester/octo.nvim)
 - [repo-edit](https://github.com/drzel/vim-repo-edit)
