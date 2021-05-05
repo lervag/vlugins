@@ -221,6 +221,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 
 ## Indent
 
+- [cursorline](https://github.com/yamatsum/nvim-cursorline)
 - [cursorword](https://github.com/itchyny/vim-cursorword)
 - [detectindent](https://github.com/ciaranm/detectindent)
 - [indent-blankline](https://github.com/lukas-reineke/indent-blankline.nvim)
