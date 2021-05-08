@@ -336,6 +336,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 
 - [comfortable-motion](https://github.com/yuttie/comfortable-motion.vim)
 - [neoscroll](https://github.com/karb94/neoscroll.nvim)
+- [scroll-barnacle](https://github.com/sslivkoff/vim-scroll-barnacle)
 - [scrollbar](https://github.com/Xuyuanp/scrollbar.nvim)
 - [scrollstatus](https://github.com/ojroques/vim-scrollstatus)
 - [scrollview](https://github.com/dstein64/nvim-scrollview)
