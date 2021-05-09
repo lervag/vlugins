@@ -322,6 +322,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 ## REPL
 
 - [estream](https://github.com/JoshMcguigan/estream)
+- [rest](https://github.com/NTBBloodbath/rest.nvim)
 - [run](https://github.com/ledesmablt/vim-run)
 - [runbuf](https://github.com/arp242/runbuf.vim)
 - [slime](https://github.com/jpalardy/vim-slime)
