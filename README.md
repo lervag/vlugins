@@ -294,6 +294,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 ## Notes
 
 - [kb-notes](https://github.com/dobrovolsky/kb-notes.nvim)
+- [linny](https://github.com/linden-project/linny.vim)
 - [markdown-wiki](https://github.com/h2ero/vim-markdown-wiki)
 - [neuron.nvim](https://github.com/oberblastmeister/neuron.nvim)
 - [neuron.vim](https://github.com/fiatjaf/neuron.vim)
@@ -451,6 +452,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 - [peekup](https://github.com/gennaro-tedesco/nvim-peekup)
 - [presence](https://github.com/andweeb/presence.nvim)
 - [qf](https://github.com/romainl/vim-qf)
+- [quickmenu](https://github.com/skywind3000/quickmenu.vim)
 - [stratify](https://github.com/mhinz/vim-startify)
 - [treesitter-context](https://github.com/romgrk/nvim-treesitter-context)
 - [undotree](https://github.com/mbbill/undotree)
