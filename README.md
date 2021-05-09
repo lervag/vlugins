@@ -86,6 +86,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 - [coc](https://github.com/neoclide/coc.nvim)
 - [compe](https://github.com/hrsh7th/nvim-compe)
 - [completion](https://github.com/nvim-lua/completion-nvim)
+- [Comrade](https://github.com/beeender/Comrade)
 - [deoplete](https://github.com/Shougo/deoplete.nvim)
 - [kok](https://github.com/ms-jpq/kok.nvim)
 - [mucomplete](https://github.com/lifepillar/vim-mucomplete)
