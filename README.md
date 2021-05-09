@@ -20,6 +20,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 - [Fuzzy-Finder](#fuzzy-finder)
 - [Git](#git)
 - [Highlighting](#highlighting)
+- [Increment](#increment)
 - [Indent](#indent)
 - [Jupyter/Ipython](#jupyteripython)
 - [LSP](#lsp)
@@ -61,6 +62,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 - [bufkill](https://github.com/qpkorr/vim-bufkill)
 - [BufOnly](https://github.com/numToStr/BufOnly.nvim)
 - [bunlink](https://github.com/orlp/vim-bunlink/)
+- [centerpad](https://github.com/smithbm2316/centerpad.nvim)
 - [choosewin](https://github.com/t9md/vim-choosewin)
 - [floating](https://github.com/fhill2/floating.nvim)
 - [focus](https://github.com/beauwilliams/focus.nvim)
@@ -71,12 +73,14 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 - [vimade](https://github.com/TaDaa/vimade)
 - [wheel](https://github.com/chimay/wheel)
 
-### Commenter
+### Comments
 
 - [caw](https://github.com/tyru/caw.vim)
 - [commaround](https://github.com/gennaro-tedesco/nvim-commaround)
 - [comment](https://github.com/terrortylor/nvim-comment)
 - [commentary](https://github.com/tpope/vim-commentary)
+- [CommentFrame](https://github.com/cometsong/CommentFrame.vim)
+- [doge](https://github.com/kkoomen/vim-doge)
 - [kommentary](https://github.com/b3nj5m1n/kommentary)
 - [nerdcommenter](https://github.com/preservim/nerdcommenter)
 
@@ -108,15 +112,10 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 
 ### Editing
 
-- [alternate-toggler](https://github.com/rmagatti/alternate-toggler)
 - [argumentative](https://github.com/PeterRincker/vim-argumentative)
 - [bullets](https://github.com/dkarter/bullets.vim)
-- [CommentFrame](https://github.com/cometsong/CommentFrame.vim)
-- [dial](https://github.com/monaqa/dial.nvim)
-- [doge](https://github.com/kkoomen/vim-doge)
 - [move](https://github.com/matze/vim-move)
 - [MvVis](https://github.com/Jorengarenar/vim-MvVis)
-- [nrpattern](https://github.com/zegervdv/nrpattern.nvim)
 - [pasta](https://github.com/sickill/vim-pasta)
 - [peculiar](https://github.com/JRasmusBm/vim-peculiar)
 - [revJ](https://github.com/AckslD/nvim-revJ.lua)
@@ -124,10 +123,8 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 - [splitjoin](https://github.com/AndrewRadev/splitjoin.vim)
 - [SQL-UPPER](https://github.com/Jorengarenar/vim-SQL-UPPER)
 - [stabs](https://github.com/Thyrum/vim-stabs)
-- [switch](https://github.com/AndrewRadev/switch.vim)
 - [synonyms](https://github.com/Sanhajio/synonyms.vim)
 - [table-mode](https://github.com/dhruvasagar/vim-table-mode)
-- [visual-increment](https://github.com/triglav/vim-visual-increment)
 
 ### File-Explorer
 
@@ -219,6 +216,15 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 - [rainbow](https://github.com/luochen1990/rainbow)
 - [signature](https://github.com/kshenoy/vim-signature)
 - [traces](https://github.com/markonm/traces.vim)
+
+### Increment
+
+- [alternate-toggler](https://github.com/rmagatti/alternate-toggler)
+- [dial](https://github.com/monaqa/dial.nvim)
+- [nrpattern](https://github.com/zegervdv/nrpattern.nvim)
+- [speeddating](https://github.com/tpope/vim-speeddating)
+- [switch](https://github.com/AndrewRadev/switch.vim)
+- [visual-increment](https://github.com/triglav/vim-visual-increment)
 
 ### Indent
 
@@ -447,7 +453,6 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 ### UI
 
 - [bqf](https://github.com/kevinhwang91/nvim-bqf)
-- [centerpad](https://github.com/smithbm2316/centerpad.nvim)
 - [context](https://github.com/wellle/context.vim)
 - [float-preview](https://github.com/ncm2/float-preview.nvim)
 - [mundo](https://github.com/simnalamburt/vim-mundo)
