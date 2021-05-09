@@ -323,8 +323,10 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 
 ### Plugin-Manager
 
+- [dein](https://github.com/Shougo/dein.vim)
 - [packager](https://github.com/kristijanhusak/vim-packager)
 - [packer](https://github.com/wbthomason/packer.nvim)
+- [pathogen](https://github.com/tpope/vim-pathogen)
 - [plug](https://github.com/junegunn/vim-plug)
 
 ### REPL
