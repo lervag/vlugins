@@ -178,6 +178,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 ### Git
 
 - [blamer](https://github.com/APZelos/blamer.nvim)
+- [coc-git](https://github.com/neoclide/coc-git)
 - [conflicted](https://github.com/christoomey/vim-conflicted)
 - [diffview](https://github.com/sindrets/diffview.nvim)
 - [dirdiff](https://github.com/will133/vim-dirdiff)
