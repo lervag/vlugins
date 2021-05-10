@@ -402,6 +402,7 @@ willing to delete plugins. Gotta keep it clean.
 ### Plugin-Manager
 
 - [dein](https://github.com/Shougo/dein.vim)
+- [minpac](https://github.com/k-takata/minpac)
 - [minPlug](https://github.com/Jorengarenar/minPlug)
 - [packager](https://github.com/kristijanhusak/vim-packager)
 - [packer](https://github.com/wbthomason/packer.nvim)
