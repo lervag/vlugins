@@ -21,10 +21,11 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 - [Git](#git)
 - [Highlighting](#highlighting)
 - [Increment](#increment)
-- [Indent](#indent)
+- [Indentation](#indentation)
 - [Jupyter/Ipython](#jupyteripython)
 - [LSP](#lsp)
 - [LSP-Extensions](#lsp-extensions)
+- [LSP-Like](#lsp-like)
 - [Miscellaneous](#miscellaneous)
 - [Motions](#motions)
 - [Objects](#objects)
@@ -57,6 +58,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 ### Buffers & Windows
 
 - [accordion](https://github.com/mattboehm/vim-accordion)
+- [auto-save](https://github.com/907th/vim-auto-save)
 - [bbye](https://github.com/moll/vim-bbye)
 - [bswap](https://github.com/natdm/bswap)
 - [bufexplorer](https://github.com/jlanzarotta/bufexplorer)
@@ -73,6 +75,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 - [harpoon](https://github.com/ThePrimeagen/harpoon)
 - [lens](https://github.com/camspiers/lens.vim)
 - [maximizer](https://github.com/szw/vim-maximizer)
+- [scratch](https://github.com/mtth/scratch.vim)
 - [vimade](https://github.com/TaDaa/vimade)
 - [wheel](https://github.com/chimay/wheel)
 
@@ -93,6 +96,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 - [coc](https://github.com/neoclide/coc.nvim)
 - [compe](https://github.com/hrsh7th/nvim-compe)
 - [completion](https://github.com/nvim-lua/completion-nvim)
+- [completor](https://github.com/maralla/completor.vim)
 - [Comrade](https://github.com/beeender/Comrade)
 - [coq](https://github.com/ms-jpq/kok.nvim)
 - [deoplete](https://github.com/Shougo/deoplete.nvim)
@@ -102,8 +106,10 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 
 ### Copy & Yank
 
+- [cutclass](https://github.com/svermeulen/vim-cutlass)
 - [oscyank](https://github.com/ojroques/vim-oscyank)
 - [system-copy](https://github.com/christoomey/vim-system-copy)
+- [yoink](https://github.com/svermeulen/vim-yoink)
 
 ### Debugger
 
@@ -115,11 +121,13 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 
 ### Editing
 
+- [argwrap](https://github.com/FooSoft/vim-argwrap)
 - [bullets](https://github.com/dkarter/bullets.vim)
 - [move](https://github.com/matze/vim-move)
 - [MvVis](https://github.com/Jorengarenar/vim-MvVis)
 - [pasta](https://github.com/sickill/vim-pasta)
 - [peculiar](https://github.com/JRasmusBm/vim-peculiar)
+- [radical](https://github.com/glts/vim-radical)
 - [revJ](https://github.com/AckslD/nvim-revJ.lua)
 - [sideways](https://github.com/AndrewRadev/sideways.vim)
 - [splitjoin](https://github.com/AndrewRadev/splitjoin.vim)
@@ -154,24 +162,31 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 
 ### Folding
 
+- [coiled-snake](https://github.com/kalekundert/vim-coiled-snake)
 - [FastFold](https://github.com/Konfekt/FastFold)
 - [SimplyFold](https://github.com/tmhedberg/SimpylFold)
 
 ### Formatting
 
 - [ale](https://github.com/dense-analysis/ale)
+- [autoformat](https://github.com/chiel92/vim-autoformat)
 - [filetype-formatter](https://github.com/pappasam/vim-filetype-formatter)
 - [formatter](https://github.com/mhartington/formatter.nvim)
 - [importmagic](https://github.com/anihm136/importmagic.nvim)
+- [lessspace](https://github.com/thirtythreeforty/lessspace.vim)
 - [neoformat](https://github.com/sbdchd/neoformat)
+- [prettier](https://github.com/prettier/vim-prettier)
 - [rt-format](https://github.com/skywind3000/vim-rt-format)
 
 ### Fuzzy-Finder
 
 - [clap](https://github.com/liuchengxu/vim-clap)
+- [command-t](https://github.com/wincent/command-t)
 - [ctrlp](https://github.com/kien/ctrlp.vim)
+- [ctrlspace](https://github.com/vim-ctrlspace/vim-ctrlspace)
 - [fuzzy](https://github.com/amirrezaask/fuzzy.nvim)
 - [fzf](https://github.com/junegunn/fzf.vim)
+- [LeaderF](https://github.com/Yggdroot/LeaderF)
 - [oneterm](https://github.com/LoricAndre/oneterm)
 - [quickpick](https://github.com/prabirshrestha/quickpick.vim)
 - [skim](https://github.com/lotabout/skim.vim)
@@ -181,6 +196,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 
 - [blamer](https://github.com/APZelos/blamer.nvim)
 - [coc-git](https://github.com/neoclide/coc-git)
+- [committia](https://github.com/rhysd/committia.vim)
 - [conflicted](https://github.com/christoomey/vim-conflicted)
 - [diffview](https://github.com/sindrets/diffview.nvim)
 - [dirdiff](https://github.com/will133/vim-dirdiff)
@@ -188,6 +204,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 - [fugitive](https://github.com/tpope/vim-fugitive)
 - [fzf-checkout](https://github.com/stsewd/fzf-checkout.vim)
 - [gina](https://github.com/lambdalisue/gina.vim)
+- [gist](https://github.com/mattn/vim-gist)
 - [git-blame](https://github.com/f-person/git-blame.nvim)
 - [git-messenger](https://github.com/rhysd/git-messenger.vim)
 - [git-worktree](https://github.com/ThePrimeagen/git-worktree.nvim)
@@ -209,10 +226,13 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 ### Highlighting
 
 - [auto-cursorline](https://github.com/delphinus/vim-auto-cursorline)
+- [better-whitespace](https://github.com/ntpeters/vim-better-whitespace)
 - [colorizer](https://github.com/norcalli/nvim-colorizer.lua)
 - [cool](https://github.com/romainl/vim-cool)
 - [cursorline](https://github.com/yamatsum/nvim-cursorline)
 - [cursorword](https://github.com/itchyny/vim-cursorword)
+- [ditto](https://github.com/dbmrq/vim-ditto)
+- [highlightedyank](https://github.com/machakann/vim-highlightedyank)
 - [hlslens](https://github.com/kevinhwang91/nvim-hlslens)
 - [illuminate](https://github.com/RRethy/vim-illuminate)
 - [interestingwords](https://github.com/lfv89/vim-interestingwords)
@@ -222,6 +242,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 - [rainbow](https://github.com/luochen1990/rainbow)
 - [signature](https://github.com/kshenoy/vim-signature)
 - [traces](https://github.com/markonm/traces.vim)
+- [trailing-whitespace](https://github.com/bronson/vim-trailing-whitespace)
 
 ### Increment
 
@@ -232,7 +253,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 - [switch](https://github.com/AndrewRadev/switch.vim)
 - [visual-increment](https://github.com/triglav/vim-visual-increment)
 
-### Indent
+### Indentation
 
 - [detectindent](https://github.com/ciaranm/detectindent)
 - [indent-blankline](https://github.com/lukas-reineke/indent-blankline.nvim)
@@ -271,14 +292,30 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 - [nlsp-settings](https://github.com/tamago324/nlsp-settings.nvim)
 - [trouble](https://github.com/folke/lsp-trouble.nvim)
 
+### LSP-Like
+
+- [any-jump](https://github.com/pechorin/any-jump.vim)
+- [gabrielelana/vim-markdown](https://github.com/gabrielelana/vim-markdown)
+- [instant-markdown](https://github.com/instant-markdown/vim-instant-markdown)
+- [jedi](https://github.com/davidhalter/jedi-vim)
+- [ledger](https://github.com/ledger/vim-ledger)
+- [pencil](https://github.com/preservim/vim-pencil)
+- [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown)
+- [syntastic](https://github.com/vim-syntastic/syntastic)
+- [treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+- [vimtex](https://github.com/lervag/vimtex)
+
 ### Miscellaneous
 
+- [calendar](https://github.com/mattn/calendar-vim)
 - [devdocs](https://github.com/romainl/vim-devdocs)
+- [editorconfig](https://github.com/editorconfig/editorconfig-vim)
+- [hardtime](https://github.com/takac/vim-hardtime)
 - [hydra](https://github.com/brenopacheco/vim-hydra)
 - [libmodal](https://github.com/Iron-E/nvim-libmodal)
 - [plenary](https://github.com/nvim-lua/plenary.nvim)
 - [presence](https://github.com/andweeb/presence.nvim)
-- [vimtex](https://github.com/lervag/vimtex)
+- [unimpaired](https://github.com/tpope/vim-unimpaired)
 - [vital](https://github.com/vim-jp/vital.vim)
 
 ### Motions
@@ -288,6 +325,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 - [easymotion](https://github.com/easymotion/vim-easymotion)
 - [eft](https://github.com/hrsh7th/vim-eft)
 - [hop](https://github.com/phaazon/hop.nvim)
+- [indentwise](https://github.com/jeetsukumaran/vim-indentwise)
 - [ipmotion](https://github.com/justinmk/vim-ipmotion)
 - [matchup](https://github.com/andymass/vim-matchup)
 - [quick-scope](https://github.com/unblevable/quick-scope)
@@ -298,6 +336,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 ### Objects
 
 - [argumentative](https://github.com/PeterRincker/vim-argumentative)
+- [indent-object](https://github.com/michaeljsmith/vim-indent-object)
 - [pythonsense](https://github.com/jeetsukumaran/vim-pythonsense)
 - [targets](https://github.com/wellle/targets.vim)
 - [textobj-user](https://github.com/kana/vim-textobj-user)
@@ -305,9 +344,14 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 
 ### Operations
 
+- [abolish](https://github.com/tpope/vim-abolish)
+- [exchange](https://github.com/tommcdo/vim-exchange)
 - [express](https://github.com/tommcdo/vim-express)
 - [gx-extended](https://github.com/stsewd/gx-extended.vim)
+- [repeat](https://github.com/tpope/vim-repeat)
+- [ReplaceWithRegister](https://github.com/vim-scripts/ReplaceWithRegister)
 - [sandwich](https://github.com/machakann/vim-sandwich)
+- [subversive](https://github.com/svermeulen/vim-subversive)
 - [surround](https://github.com/tpope/vim-surround)
 
 ### Pair-Closer
@@ -318,13 +362,16 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 - [closer](https://github.com/rstacruz/vim-closer)
 - [closetag](https://github.com/alvan/vim-closetag)
 - [delimitMate](https://github.com/Raimondi/delimitMate)
+- [emmet](https://github.com/mattn/emmet-vim)
 - [endwise](https://github.com/tpope/vim-endwise)
 - [lexima](https://github.com/cohama/lexima.vim)
+- [pear-tree](https://github.com/tmsvg/pear-tree)
 - [ts-closetag](https://github.com/windwp/nvim-ts-closetag)
 
 ### Plugin-Manager
 
 - [dein](https://github.com/Shougo/dein.vim)
+- [minPlug](https://github.com/Jorengarenar/minPlug)
 - [packager](https://github.com/kristijanhusak/vim-packager)
 - [packer](https://github.com/wbthomason/packer.nvim)
 - [pathogen](https://github.com/tpope/vim-pathogen)
@@ -334,9 +381,11 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 
 - [bqf](https://github.com/kevinhwang91/nvim-bqf)
 - [qf](https://github.com/romainl/vim-qf)
+- [qlist](https://github.com/romainl/vim-qlist)
 
 ### REPL
 
+- [codi](https://github.com/metakirby5/codi.vim)
 - [estream](https://github.com/JoshMcguigan/estream)
 - [rest](https://github.com/NTBBloodbath/rest.nvim)
 - [run](https://github.com/ledesmablt/vim-run)
@@ -370,17 +419,22 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 - [searchReplace](https://github.com/romgrk/searchReplace.vim)
 - [spectre](https://github.com/windwp/nvim-spectre)
 - [visual-multi](https://github.com/mg979/vim-visual-multi)
+- [visual-star-search](https://github.com/bronson/vim-visual-star-search)
 
 ### Session-Management
 
 - [auto-session](https://github.com/rmagatti/auto-session)
+- [lastplace](https://github.com/farmergreg/vim-lastplace)
 - [obsession](https://github.com/tpope/vim-obsession)
+- [prosession](https://github.com/dhruvasagar/vim-prosession)
+- [stay](https://github.com/zhimsel/vim-stay)
 - [workspace](https://github.com/thaerkh/vim-workspace)
 
 ### Snippets
 
 - [LuaSnip](https://github.com/L3MON4D3/LuaSnip)
 - [miniSnip](https://github.com/Jorengarenar/miniSnip)
+- [snipmate](https://github.com/garbas/vim-snipmate)
 - [snippets](https://github.com/norcalli/snippets.nvim)
 - [ultisnips](https://github.com/SirVer/ultisnips)
 - [vsnip](https://github.com/hrsh7th/vim-vsnip)
@@ -402,6 +456,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 
 - [apm](https://github.com/ThePrimeagen/vim-apm)
 - [plugins-profile](https://github.com/hyiltiz/vim-plugins-profile)
+- [wakatime](https://github.com/wakatime/vim-wakatime)
 
 ### Statusline
 
@@ -480,4 +535,5 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 - [markdown-wiki](https://github.com/h2ero/vim-markdown-wiki)
 - [neuron.nvim](https://github.com/oberblastmeister/neuron.nvim)
 - [neuron.vim](https://github.com/fiatjaf/neuron.vim)
+- [riv](https://github.com/gu-fan/riv.vim)
 - [vimwiki](https://github.com/vimwiki/vimwiki)
