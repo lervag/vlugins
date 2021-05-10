@@ -563,6 +563,7 @@ willing to delete plugins. Gotta keep it clean.
 
 ### Undotree
 
+- [gundo](https://github.com/sjl/gundo.vim)
 - [mundo](https://github.com/simnalamburt/vim-mundo)
 - [undotree](https://github.com/mbbill/undotree)
 
