@@ -8,8 +8,6 @@ other way please create an issue or PR.
 
 ### Table of Contents
 
-<!-- toc -->
-
 - [Alignment](#alignment)
 - [Buffers & Windows](#buffers--windows)
 - [Comments](#comments)
@@ -52,8 +50,6 @@ other way please create an issue or PR.
 - [Tmux](#tmux)
 - [UI](#ui)
 - [Wikis & Notes](#wikis--notes)
-
-<!-- tocstop -->
 
 ### Alignment
 
