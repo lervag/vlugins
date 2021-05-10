@@ -4,7 +4,8 @@ A categorized list of
 [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plugins.
 
 If you would like to add a plugin, create a category or improve the list in any
-other way please create an issue or PR.
+other way please create an issue or PR. If there are good reasons I am also
+willing to delete plugins. Gotta keep it clean.
 
 ### Table of Contents
 
