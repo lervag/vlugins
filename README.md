@@ -22,6 +22,7 @@ other way please create an issue or PR.
 - [Folding](#folding)
 - [Formatting](#formatting)
 - [Fuzzy-Finder](#fuzzy-finder)
+- [Games](#games)
 - [Git](#git)
 - [Highlighting](#highlighting)
 - [Increment](#increment)
@@ -195,6 +196,12 @@ other way please create an issue or PR.
 - [quickpick](https://github.com/prabirshrestha/quickpick.vim)
 - [skim](https://github.com/lotabout/skim.vim)
 - [telescope](https://github.com/nvim-telescope/telescope.nvim)
+
+### Games
+
+- [killersheep](https://github.com/vim/killersheep)
+- [mario](https://github.com/rbtnn/vim-mario)
+- [mine-sweeping](https://github.com/iqxd/vim-mine-sweeping)
 
 ### Git
 
