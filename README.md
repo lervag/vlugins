@@ -30,6 +30,7 @@ willing to delete plugins. Gotta keep it clean.
 - [LSP](#lsp)
 - [LSP-Extensions](#lsp-extensions)
 - [LSP-Like](#lsp-like)
+- [Markdown](#markdown)
 - [Miscellaneous](#miscellaneous)
 - [Motions](#motions)
 - [Objects](#objects)
@@ -49,6 +50,7 @@ willing to delete plugins. Gotta keep it clean.
 - [Tab-/Buffer-line](#tab-buffer-line)
 - [Tagbar](#tagbar)
 - [Terminal](#terminal)
+- [Tests](#tests)
 - [Tmux](#tmux)
 - [UI](#ui)
 - [Undotree](#undotree)
@@ -75,7 +77,6 @@ willing to delete plugins. Gotta keep it clean.
 - [choosewin](https://github.com/t9md/vim-choosewin)
 - [floating](https://github.com/fhill2/floating.nvim)
 - [focus](https://github.com/beauwilliams/focus.nvim)
-- [goyo](https://github.com/junegunn/goyo.vim)
 - [harpoon](https://github.com/ThePrimeagen/harpoon)
 - [lens](https://github.com/camspiers/lens.vim)
 - [maximizer](https://github.com/szw/vim-maximizer)
@@ -93,6 +94,8 @@ willing to delete plugins. Gotta keep it clean.
 - [doge](https://github.com/kkoomen/vim-doge)
 - [kommentary](https://github.com/b3nj5m1n/kommentary)
 - [nerdcommenter](https://github.com/preservim/nerdcommenter)
+- [prodoc](https://github.com/glepnir/prodoc.nvim)
+- [ts-context-commentstring](ts-context-commentstring)
 
 ### Completion
 
@@ -126,7 +129,6 @@ willing to delete plugins. Gotta keep it clean.
 ### Editing
 
 - [argwrap](https://github.com/FooSoft/vim-argwrap)
-- [bullets](https://github.com/dkarter/bullets.vim)
 - [move](https://github.com/matze/vim-move)
 - [MvVis](https://github.com/Jorengarenar/vim-MvVis)
 - [pasta](https://github.com/sickill/vim-pasta)
@@ -150,6 +152,7 @@ willing to delete plugins. Gotta keep it clean.
 - [fern](https://github.com/lambdalisue/fern.vim)
 - [lir](https://github.com/tamago324/lir.nvim)
 - [molder](https://github.com/mattn/vim-molder)
+- [neofs](https://github.com/TimUntersberger/neofs)
 - [nerdtree](https://github.com/preservim/nerdtree)
 - [nnn](https://github.com/mcchrish/nnn.vim)
 - [rnvimr](https://github.com/kevinhwang91/rnvimr)
@@ -193,6 +196,7 @@ willing to delete plugins. Gotta keep it clean.
 - [fuzzy](https://github.com/amirrezaask/fuzzy.nvim)
 - [fzf](https://github.com/junegunn/fzf.vim)
 - [LeaderF](https://github.com/Yggdroot/LeaderF)
+- [nvim-fzf](https://github.com/vijaymarupudi/nvim-fzf)
 - [oneterm](https://github.com/LoricAndre/oneterm)
 - [quickpick](https://github.com/prabirshrestha/quickpick.vim)
 - [skim](https://github.com/lotabout/skim.vim)
@@ -200,6 +204,7 @@ willing to delete plugins. Gotta keep it clean.
 
 ### Games
 
+- [be-good](https://github.com/ThePrimeagen/vim-be-good)
 - [killersheep](https://github.com/vim/killersheep)
 - [mario](https://github.com/rbtnn/vim-mario)
 - [mine-sweeping](https://github.com/iqxd/vim-mine-sweeping)
@@ -207,6 +212,7 @@ willing to delete plugins. Gotta keep it clean.
 
 ### Git
 
+- [blame-line](https://github.com/tveskag/nvim-blame-line)
 - [blamer](https://github.com/APZelos/blamer.nvim)
 - [coc-git](https://github.com/neoclide/coc-git)
 - [committia](https://github.com/rhysd/committia.vim)
@@ -254,6 +260,7 @@ willing to delete plugins. Gotta keep it clean.
 - [pinnacle](https://github.com/wincent/pinnacle)
 - [rainbow](https://github.com/luochen1990/rainbow)
 - [signature](https://github.com/kshenoy/vim-signature)
+- [specs](https://github.com/edluffy/specs.nvim)
 - [traces](https://github.com/markonm/traces.vim)
 - [trailing-whitespace](https://github.com/bronson/vim-trailing-whitespace)
 
@@ -297,6 +304,7 @@ willing to delete plugins. Gotta keep it clean.
 - [lightbulb](https://github.com/kosayoda/nvim-lightbulb)
 - [lint](https://github.com/mfussenegger/nvim-lint)
 - [lsp-status](https://github.com/nvim-lua/lsp-status.nvim)
+- [lsp\_extensions](https://github.com/nvim-lua/lsp_extensions.nvim)
 - [lsp\_signature](https://github.com/ray-x/lsp_signature.nvim)
 - [lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy)
 - [lspkind](https://github.com/onsails/lspkind-nvim)
@@ -304,30 +312,40 @@ willing to delete plugins. Gotta keep it clean.
 - [lsputils](https://github.com/RishabhRD/nvim-lsputils)
 - [nlsp-settings](https://github.com/tamago324/nlsp-settings.nvim)
 - [trouble](https://github.com/folke/lsp-trouble.nvim)
+- [virtual-types](https://github.com/jubnzv/virtual-types.nvim)
 
 ### LSP-Like
 
 - [any-jump](https://github.com/pechorin/any-jump.vim)
-- [gabrielelana/vim-markdown](https://github.com/gabrielelana/vim-markdown)
-- [instant-markdown](https://github.com/instant-markdown/vim-instant-markdown)
 - [jedi](https://github.com/davidhalter/jedi-vim)
 - [ledger](https://github.com/ledger/vim-ledger)
 - [pencil](https://github.com/preservim/vim-pencil)
-- [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown)
 - [syntastic](https://github.com/vim-syntastic/syntastic)
 - [treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 - [vimtex](https://github.com/lervag/vimtex)
 
+### Markdown
+
+- [bullets](https://github.com/dkarter/bullets.vim)
+- [gabrielelana/vim-markdown](https://github.com/gabrielelana/vim-markdown)
+- [glow](https://github.com/npxbr/glow.nvim)
+- [instant-markdown](https://github.com/instant-markdown/vim-instant-markdown)
+- [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown)
+
 ### Miscellaneous
 
+- [boilit](https://github.com/gennaro-tedesco/boilit)
 - [calendar](https://github.com/mattn/calendar-vim)
 - [devdocs](https://github.com/romainl/vim-devdocs)
 - [editorconfig](https://github.com/editorconfig/editorconfig-vim)
+- [firenvim](https://github.com/glacambre/firenvim)
+- [gesture](https://github.com/notomo/gesture.nvim)
 - [hardtime](https://github.com/takac/vim-hardtime)
 - [hydra](https://github.com/brenopacheco/vim-hydra)
 - [libmodal](https://github.com/Iron-E/nvim-libmodal)
 - [plenary](https://github.com/nvim-lua/plenary.nvim)
 - [presence](https://github.com/andweeb/presence.nvim)
+- [reload](https://github.com/famiu/nvim-reload)
 - [unimpaired](https://github.com/tpope/vim-unimpaired)
 - [vital](https://github.com/vim-jp/vital.vim)
 
@@ -365,6 +383,7 @@ willing to delete plugins. Gotta keep it clean.
 - [ReplaceWithRegister](https://github.com/vim-scripts/ReplaceWithRegister)
 - [sandwich](https://github.com/machakann/vim-sandwich)
 - [subversive](https://github.com/svermeulen/vim-subversive)
+- [surround.nvim](https://github.com/blackCauldron7/surround.nvim)
 - [surround](https://github.com/tpope/vim-surround)
 
 ### Pair-Closer
@@ -387,6 +406,7 @@ willing to delete plugins. Gotta keep it clean.
 - [minPlug](https://github.com/Jorengarenar/minPlug)
 - [packager](https://github.com/kristijanhusak/vim-packager)
 - [packer](https://github.com/wbthomason/packer.nvim)
+- [paq](https://github.com/savq/paq-nvim)
 - [pathogen](https://github.com/tpope/vim-pathogen)
 - [plug](https://github.com/junegunn/vim-plug)
 
@@ -400,6 +420,7 @@ willing to delete plugins. Gotta keep it clean.
 
 - [peekaboo](https://github.com/junegunn/vim-peekaboo)
 - [peekup](https://github.com/gennaro-tedesco/nvim-peekup)
+- [registers](https://github.com/tversteeg/registers.nvim)
 
 ### REPL
 
@@ -411,8 +432,6 @@ willing to delete plugins. Gotta keep it clean.
 - [slime](https://github.com/jpalardy/vim-slime)
 - [sniprun](https://github.com/michaelb/sniprun)
 - [terminator](https://github.com/erietz/vim-terminator)
-- [test](https://github.com/vim-test/vim-test)
-- [ultest](https://github.com/rcarriga/vim-ultest)
 - [vimcmdline](https://github.com/jalvesaq/vimcmdline)
 - [vimux](https://github.com/preservim/vimux)
 - [visualrun](https://github.com/thezeroalpha/vim-visualrun)
@@ -465,6 +484,7 @@ willing to delete plugins. Gotta keep it clean.
 - [LanguageTool](https://github.com/dpelle/vim-LanguageTool)
 - [lexical](https://github.com/reedes/vim-lexical)
 - [SpellCheck](https://github.com/inkarkat/vim-SpellCheck)
+- [spellsitter](https://github.com/lewis6991/spellsitter.nvim)
 - [spelunker](https://github.com/kamykn/spelunker.vim)
 - [synonyms](https://github.com/Sanhajio/synonyms.vim)
 - [translator](https://github.com/voldikss/vim-translator)
@@ -488,9 +508,12 @@ willing to delete plugins. Gotta keep it clean.
 - [galaxyline](https://github.com/glepnir/galaxyline.nvim)
 - [hardline](https://github.com/ojroques/nvim-hardline)
 - [lightline](https://github.com/itchyny/lightline.vim)
+- [lualine](https://github.com/hoob3rt/lualine.nvim)
 - [neoline](https://github.com/adelarsq/neoline.vim)
 - [onestatus](https://github.com/narajaon/onestatus)
 - [spaceline](https://github.com/glepnir/spaceline.vim)
+- [staline](https://github.com/tamton-aquib/staline.nvim)
+- [statusline](https://github.com/beauwilliams/statusline.lua)
 - [tpipeline](https://github.com/vimpostor/vim-tpipeline)
 
 ### Tab-/Buffer-line
@@ -516,17 +539,24 @@ willing to delete plugins. Gotta keep it clean.
 - [bufterm](https://github.com/itmecho/bufterm.nvim)
 - [deol](https://github.com/Shougo/deol.nvim)
 - [floaterm](https://github.com/voldikss/vim-floaterm)
+- [FTerm](https://github.com/numToStr/FTerm.nvim)
 - [multiterm](https://github.com/chengzeyi/multiterm.vim)
 - [neomux](https://github.com/nikvdp/neomux)
 - [neoterm](https://github.com/kassio/neoterm)
 - [stt](https://github.com/toniz4/vim-stt)
 - [termbufm](https://github.com/mizlan/termbufm)
+- [termwrapper](https://github.com/oberblastmeister/termwrapper.nvim)
 - [toggle-terminal](https://github.com/caenrique/nvim-toggle-terminal)
 - [toggleterm](https://github.com/akinsho/nvim-toggleterm.lua)
 
+### Tests
+
+- [test](https://github.com/vim-test/vim-test)
+- [ultest](https://github.com/rcarriga/vim-ultest)
+
 ### Tmux
 
-- [navigator](https://github.com/numToStr/Navigator.nvim)
+- [Navigator](https://github.com/numToStr/Navigator.nvim)
 - [tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
 - [tmux-runner](https://github.com/christoomey/vim-tmux-runner)
 - [vimux](https://github.com/preservim/vimux)
@@ -540,9 +570,11 @@ willing to delete plugins. Gotta keep it clean.
 
 - [context](https://github.com/wellle/context.vim)
 - [float-preview](https://github.com/ncm2/float-preview.nvim)
+- [goyo](https://github.com/junegunn/goyo.vim)
 - [quickmenu](https://github.com/skywind3000/quickmenu.vim)
 - [stratify](https://github.com/mhinz/vim-startify)
 - [treesitter-context](https://github.com/romgrk/nvim-treesitter-context)
+- [TrueZen](https://github.com/kdav5758/TrueZen.nvim)
 - [urlview](https://github.com/strboul/urlview.vim)
 - [vim-which-key](https://github.com/liuchengxu/vim-which-key)
 - [which-key.nvim](https://github.com/folke/which-key.nvim)
@@ -552,6 +584,8 @@ willing to delete plugins. Gotta keep it clean.
 - [kb-notes](https://github.com/dobrovolsky/kb-notes.nvim)
 - [linny](https://github.com/linden-project/linny.vim)
 - [markdown-wiki](https://github.com/h2ero/vim-markdown-wiki)
+- [nabla](https://github.com/jbyuki/nabla.nvim)
+- [neorg](https://github.com/vhyrro/neorg)
 - [neuron.nvim](https://github.com/oberblastmeister/neuron.nvim)
 - [neuron.vim](https://github.com/fiatjaf/neuron.vim)
 - [riv](https://github.com/gu-fan/riv.vim)
