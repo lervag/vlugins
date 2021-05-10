@@ -48,7 +48,7 @@ willing to delete plugins. Gotta keep it clean.
 - [Statistics](#statistics)
 - [Statusline](#statusline)
 - [Tab-/Buffer-line](#tab-buffer-line)
-- [Tagbar](#tagbar)
+- [Tags](#tags)
 - [Terminal](#terminal)
 - [Tests](#tests)
 - [Tmux](#tmux)
@@ -528,8 +528,9 @@ willing to delete plugins. Gotta keep it clean.
 - [tabulous](https://github.com/webdevel/tabulous)
 - [vem-tabline](https://github.com/pacha/vem-tabline)
 
-### Tagbar
+### Tags
 
+- [gutentags](https://github.com/ludovicchabant/vim-gutentags)
 - [symbols-outline](https://github.com/simrat39/symbols-outline.nvim)
 - [tagbar](https://github.com/preservim/tagbar)
 - [vista](https://github.com/liuchengxu/vista.vim)
