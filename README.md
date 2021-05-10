@@ -330,6 +330,7 @@ willing to delete plugins. Gotta keep it clean.
 - [gabrielelana/vim-markdown](https://github.com/gabrielelana/vim-markdown)
 - [glow](https://github.com/npxbr/glow.nvim)
 - [instant-markdown](https://github.com/instant-markdown/vim-instant-markdown)
+- [markdown-toc](https://github.com/mzlogin/vim-markdown-toc)
 - [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown)
 
 ### Miscellaneous
