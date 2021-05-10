@@ -152,9 +152,11 @@ other way please create an issue or PR.
 - [lir](https://github.com/tamago324/lir.nvim)
 - [molder](https://github.com/mattn/vim-molder)
 - [nerdtree](https://github.com/preservim/nerdtree)
+- [nnn](https://github.com/mcchrish/nnn.vim)
 - [rnvimr](https://github.com/kevinhwang91/rnvimr)
 - [tree](https://github.com/kyazdani42/nvim-tree.lua)
 - [vinegar](https://github.com/tpope/vim-vinegar)
+- [xplr](https://github.com/sayanarijit/xplr.vim)
 - [yanil](https://github.com/Xuyuanp/yanil)
 
 ### Files & Directories
@@ -202,6 +204,7 @@ other way please create an issue or PR.
 - [killersheep](https://github.com/vim/killersheep)
 - [mario](https://github.com/rbtnn/vim-mario)
 - [mine-sweeping](https://github.com/iqxd/vim-mine-sweeping)
+- [tetris](https://github.com/alec-gibson/nvim-tetris)
 
 ### Git
 
