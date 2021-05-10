@@ -559,6 +559,7 @@ willing to delete plugins. Gotta keep it clean.
 ### Tmux
 
 - [Navigator](https://github.com/numToStr/Navigator.nvim)
+- [tmux-complete](https://github.com/wellle/tmux-complete.vim)
 - [tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
 - [tmux-runner](https://github.com/christoomey/vim-tmux-runner)
 - [vimux](https://github.com/preservim/vimux)
