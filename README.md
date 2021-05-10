@@ -496,6 +496,7 @@ willing to delete plugins. Gotta keep it clean.
 
 - [apm](https://github.com/ThePrimeagen/vim-apm)
 - [plugins-profile](https://github.com/hyiltiz/vim-plugins-profile)
+- [startuptime](https://github.com/tweekmonster/startuptime.vim)
 - [wakatime](https://github.com/wakatime/vim-wakatime)
 
 ### Statusline
