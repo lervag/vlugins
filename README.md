@@ -44,7 +44,7 @@ willing to delete plugins. Gotta keep it clean.
 - [Search & Replace](#search--replace)
 - [Session-Management](#session-management)
 - [Snippets](#snippets)
-- [Spellchecker](#spellchecker)
+- [Spelling](#spelling)
 - [Statistics](#statistics)
 - [Statusline](#statusline)
 - [Tab-/Buffer-line](#tab-buffer-line)
@@ -375,7 +375,6 @@ willing to delete plugins. Gotta keep it clean.
 
 ### Operations
 
-- [abolish](https://github.com/tpope/vim-abolish)
 - [exchange](https://github.com/tommcdo/vim-exchange)
 - [express](https://github.com/tommcdo/vim-express)
 - [gx-extended](https://github.com/stsewd/gx-extended.vim)
@@ -476,8 +475,9 @@ willing to delete plugins. Gotta keep it clean.
 - [ultisnips](https://github.com/SirVer/ultisnips)
 - [vsnip](https://github.com/hrsh7th/vim-vsnip)
 
-### Spellchecker
+### Spelling
 
+- [abolish](https://github.com/tpope/vim-abolish)
 - [coc-spell-checker](https://github.com/iamcco/coc-spell-checker)
 - [codespell](https://github.com/shinglyu/vim-codespell)
 - [grammarous](https://github.com/rhysd/vim-grammarous)
