@@ -36,6 +36,7 @@ other way please create an issue or PR.
 - [Pair-Closer](#pair-closer)
 - [Plugin-Manager](#plugin-manager)
 - [Quickfix](#quickfix)
+- [Registers](#registers)
 - [REPL](#repl)
 - [Scrolling](#scrolling)
 - [Search & Replace](#search--replace)
@@ -49,6 +50,7 @@ other way please create an issue or PR.
 - [Terminal](#terminal)
 - [Tmux](#tmux)
 - [UI](#ui)
+- [Undotree](#undotree)
 - [Wikis & Notes](#wikis--notes)
 
 ### Alignment
@@ -393,6 +395,11 @@ other way please create an issue or PR.
 - [qf](https://github.com/romainl/vim-qf)
 - [qlist](https://github.com/romainl/vim-qlist)
 
+### Registers
+
+- [peekaboo](https://github.com/junegunn/vim-peekaboo)
+- [peekup](https://github.com/gennaro-tedesco/nvim-peekup)
+
 ### REPL
 
 - [codi](https://github.com/metakirby5/codi.vim)
@@ -523,17 +530,18 @@ other way please create an issue or PR.
 - [tmux-runner](https://github.com/christoomey/vim-tmux-runner)
 - [vimux](https://github.com/preservim/vimux)
 
+### Undotree
+
+- [mundo](https://github.com/simnalamburt/vim-mundo)
+- [undotree](https://github.com/mbbill/undotree)
+
 ### UI
 
 - [context](https://github.com/wellle/context.vim)
 - [float-preview](https://github.com/ncm2/float-preview.nvim)
-- [mundo](https://github.com/simnalamburt/vim-mundo)
-- [peekaboo](https://github.com/junegunn/vim-peekaboo)
-- [peekup](https://github.com/gennaro-tedesco/nvim-peekup)
 - [quickmenu](https://github.com/skywind3000/quickmenu.vim)
 - [stratify](https://github.com/mhinz/vim-startify)
 - [treesitter-context](https://github.com/romgrk/nvim-treesitter-context)
-- [undotree](https://github.com/mbbill/undotree)
 - [urlview](https://github.com/strboul/urlview.vim)
 - [vim-which-key](https://github.com/liuchengxu/vim-which-key)
 - [which-key.nvim](https://github.com/folke/which-key.nvim)
