@@ -276,6 +276,7 @@ A categorized list of [neo](https://github.com/neovim/neovim)/[vim](https://gith
 - [libmodal](https://github.com/Iron-E/nvim-libmodal)
 - [plenary](https://github.com/nvim-lua/plenary.nvim)
 - [presence](https://github.com/andweeb/presence.nvim)
+- [vimtex](https://github.com/lervag/vimtex)
 - [vital](https://github.com/vim-jp/vital.vim)
 
 ### Motions & Objects
