@@ -605,6 +605,7 @@ doesn't mean I abandoned this repo.
 - [orgmode](https://github.com/jceb/vim-orgmode)
 - [riv](https://github.com/gu-fan/riv.vim)
 - [vimwiki](https://github.com/vimwiki/vimwiki)
+- [wiki.vim](https://github.com/lervag/wiki.vim/)
 
 ### Windows
 
