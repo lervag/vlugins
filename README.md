@@ -589,6 +589,7 @@ willing to delete plugins. Gotta keep it clean.
 
 ### Wikis & Notes
 
+- [dotoo](https://github.com/dhruvasagar/vim-dotoo)
 - [kb-notes](https://github.com/dobrovolsky/kb-notes.nvim)
 - [linny](https://github.com/linden-project/linny.vim)
 - [markdown-wiki](https://github.com/h2ero/vim-markdown-wiki)
@@ -596,5 +597,6 @@ willing to delete plugins. Gotta keep it clean.
 - [neorg](https://github.com/vhyrro/neorg)
 - [neuron.nvim](https://github.com/oberblastmeister/neuron.nvim)
 - [neuron.vim](https://github.com/fiatjaf/neuron.vim)
+- [orgmode](https://github.com/jceb/vim-orgmode)
 - [riv](https://github.com/gu-fan/riv.vim)
 - [vimwiki](https://github.com/vimwiki/vimwiki)
