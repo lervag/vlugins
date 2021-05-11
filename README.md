@@ -416,6 +416,7 @@ willing to delete plugins. Gotta keep it clean.
 ### Quickfix
 
 - [bqf](https://github.com/kevinhwang91/nvim-bqf)
+- [jqx](https://github.com/gennaro-tedesco/nvim-jqx)
 - [qf](https://github.com/romainl/vim-qf)
 - [qlist](https://github.com/romainl/vim-qlist)
 
