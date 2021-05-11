@@ -310,6 +310,7 @@ willing to delete plugins. Gotta keep it clean.
 - [lspkind](https://github.com/onsails/lspkind-nvim)
 - [lspsaga](https://github.com/glepnir/lspsaga.nvim)
 - [lsputils](https://github.com/RishabhRD/nvim-lsputils)
+- [navigator](https://github.com/ray-x/navigator.lua)
 - [nlsp-settings](https://github.com/tamago324/nlsp-settings.nvim)
 - [trouble](https://github.com/folke/lsp-trouble.nvim)
 - [virtual-types](https://github.com/jubnzv/virtual-types.nvim)
