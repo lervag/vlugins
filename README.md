@@ -584,6 +584,7 @@ doesn't mean I abandoned this repo.
 - [context](https://github.com/wellle/context.vim)
 - [float-preview](https://github.com/ncm2/float-preview.nvim)
 - [goyo](https://github.com/junegunn/goyo.vim)
+- [IRC](https://github.com/shadmansaleh/IRC.nvim)
 - [quickmenu](https://github.com/skywind3000/quickmenu.vim)
 - [stratify](https://github.com/mhinz/vim-startify)
 - [treesitter-context](https://github.com/romgrk/nvim-treesitter-context)
