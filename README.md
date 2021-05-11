@@ -424,6 +424,7 @@ willing to delete plugins. Gotta keep it clean.
 - [jqx](https://github.com/gennaro-tedesco/nvim-jqx)
 - [qf](https://github.com/romainl/vim-qf)
 - [qlist](https://github.com/romainl/vim-qlist)
+- [quickfix-reflector](https://github.com/stefandtw/quickfix-reflector.vim)
 
 ### Registers
 
