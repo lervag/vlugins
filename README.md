@@ -10,6 +10,7 @@ willing to delete plugins. Gotta keep it clean.
 ### Table of Contents
 
 - [Alignment](#alignment)
+- [Browser & URLS](#browser--urls)
 - [Buffers & Windows](#buffers--windows)
 - [Comments](#comments)
 - [Completion](#completion)
@@ -60,6 +61,14 @@ willing to delete plugins. Gotta keep it clean.
 
 - [easy-align](https://github.com/junegunn/vim-easy-align)
 - [lion](https://github.com/tommcdo/vim-lion)
+
+### Browser & URLS
+
+- [devdocs](https://github.com/romainl/vim-devdocs)
+- [firenvim](https://github.com/glacambre/firenvim)
+- [open-browser-github](https://github.com/tyru/open-browser-github.vim)
+- [open-browser](https://github.com/tyru/open-browser.vim)
+- [urlview](https://github.com/strboul/urlview.vim)
 
 ### Buffers & Windows
 
@@ -339,10 +348,7 @@ willing to delete plugins. Gotta keep it clean.
 ### Miscellaneous
 
 - [boilit](https://github.com/gennaro-tedesco/boilit)
-- [calendar](https://github.com/mattn/calendar-vim)
-- [devdocs](https://github.com/romainl/vim-devdocs)
 - [editorconfig](https://github.com/editorconfig/editorconfig-vim)
-- [firenvim](https://github.com/glacambre/firenvim)
 - [gesture](https://github.com/notomo/gesture.nvim)
 - [hardtime](https://github.com/takac/vim-hardtime)
 - [hydra](https://github.com/brenopacheco/vim-hydra)
@@ -578,6 +584,7 @@ willing to delete plugins. Gotta keep it clean.
 
 ### UI
 
+- [calendar](https://github.com/mattn/calendar-vim)
 - [context](https://github.com/wellle/context.vim)
 - [float-preview](https://github.com/ncm2/float-preview.nvim)
 - [goyo](https://github.com/junegunn/goyo.vim)
@@ -585,7 +592,6 @@ willing to delete plugins. Gotta keep it clean.
 - [stratify](https://github.com/mhinz/vim-startify)
 - [treesitter-context](https://github.com/romgrk/nvim-treesitter-context)
 - [TrueZen](https://github.com/kdav5758/TrueZen.nvim)
-- [urlview](https://github.com/strboul/urlview.vim)
 - [vim-which-key](https://github.com/liuchengxu/vim-which-key)
 - [which-key.nvim](https://github.com/folke/which-key.nvim)
 
