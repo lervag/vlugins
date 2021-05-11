@@ -165,6 +165,7 @@ willing to delete plugins. Gotta keep it clean.
 
 - [easydir](https://github.com/duggiefresh/vim-easydir)
 - [eunuch](https://github.com/tpope/vim-eunuch)
+- [fwatch](https://github.com/rktjmp/fwatch.nvim)
 - [jumpwire](https://github.com/micmine/jumpwire.nvim)
 - [projectionist](https://github.com/tpope/vim-projectionist)
 - [rooter](https://github.com/airblade/vim-rooter)
