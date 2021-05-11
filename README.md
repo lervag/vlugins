@@ -81,7 +81,6 @@ willing to delete plugins. Gotta keep it clean.
 - [lens](https://github.com/camspiers/lens.vim)
 - [maximizer](https://github.com/szw/vim-maximizer)
 - [scratch](https://github.com/mtth/scratch.vim)
-- [vimade](https://github.com/TaDaa/vimade)
 - [wheel](https://github.com/chimay/wheel)
 
 ### Comments
@@ -251,6 +250,7 @@ willing to delete plugins. Gotta keep it clean.
 - [cool](https://github.com/romainl/vim-cool)
 - [cursorline](https://github.com/yamatsum/nvim-cursorline)
 - [cursorword](https://github.com/itchyny/vim-cursorword)
+- [diminactive](https://github.com/blueyed/vim-diminactive)
 - [ditto](https://github.com/dbmrq/vim-ditto)
 - [highlightedyank](https://github.com/machakann/vim-highlightedyank)
 - [hlslens](https://github.com/kevinhwang91/nvim-hlslens)
@@ -264,6 +264,7 @@ willing to delete plugins. Gotta keep it clean.
 - [specs](https://github.com/edluffy/specs.nvim)
 - [traces](https://github.com/markonm/traces.vim)
 - [trailing-whitespace](https://github.com/bronson/vim-trailing-whitespace)
+- [vimade](https://github.com/TaDaa/vimade)
 
 ### Increment
 
