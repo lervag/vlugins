@@ -9,7 +9,7 @@ willing to delete plugins. Gotta keep it clean.
 
 - [Alignment](#alignment)
 - [Browser & URLS](#browser--urls)
-- [Buffers & Windows](#buffers--windows)
+- [Buffers](#buffers)
 - [Comments](#comments)
 - [Completion](#completion)
 - [Copy & Yank](#copy--yank)
@@ -54,6 +54,7 @@ willing to delete plugins. Gotta keep it clean.
 - [UI](#ui)
 - [Undotree](#undotree)
 - [Wikis & Notes](#wikis--notes)
+- [Windows](#windows)
 
 ### Alignment
 
@@ -68,9 +69,8 @@ willing to delete plugins. Gotta keep it clean.
 - [open-browser](https://github.com/tyru/open-browser.vim)
 - [urlview](https://github.com/strboul/urlview.vim)
 
-### Buffers & Windows
+### Buffers
 
-- [accordion](https://github.com/mattboehm/vim-accordion)
 - [auto-save](https://github.com/907th/vim-auto-save)
 - [bbye](https://github.com/moll/vim-bbye)
 - [bswap](https://github.com/natdm/bswap)
@@ -80,13 +80,7 @@ willing to delete plugins. Gotta keep it clean.
 - [bufkill](https://github.com/qpkorr/vim-bufkill)
 - [BufOnly](https://github.com/numToStr/BufOnly.nvim)
 - [bunlink](https://github.com/orlp/vim-bunlink/)
-- [centerpad](https://github.com/smithbm2316/centerpad.nvim)
-- [choosewin](https://github.com/t9md/vim-choosewin)
-- [floating](https://github.com/fhill2/floating.nvim)
-- [focus](https://github.com/beauwilliams/focus.nvim)
 - [harpoon](https://github.com/ThePrimeagen/harpoon)
-- [lens](https://github.com/camspiers/lens.vim)
-- [maximizer](https://github.com/szw/vim-maximizer)
 - [scratch](https://github.com/mtth/scratch.vim)
 - [wheel](https://github.com/chimay/wheel)
 
@@ -607,3 +601,13 @@ willing to delete plugins. Gotta keep it clean.
 - [orgmode](https://github.com/jceb/vim-orgmode)
 - [riv](https://github.com/gu-fan/riv.vim)
 - [vimwiki](https://github.com/vimwiki/vimwiki)
+
+### Windows
+
+- [accordion](https://github.com/mattboehm/vim-accordion)
+- [centerpad](https://github.com/smithbm2316/centerpad.nvim)
+- [choosewin](https://github.com/t9md/vim-choosewin)
+- [floating](https://github.com/fhill2/floating.nvim)
+- [focus](https://github.com/beauwilliams/focus.nvim)
+- [lens](https://github.com/camspiers/lens.vim)
+- [maximizer](https://github.com/szw/vim-maximizer)
