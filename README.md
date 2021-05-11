@@ -1,5 +1,3 @@
-# vlugins
-
 [vlugins](https://github.com/astier/vlugins) is a categorized list of
 [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plugins.
 
